@@ -1,0 +1,16 @@
+E:\Заказ\ValentinDiplom\Diplom\Diplom\bin\Debug\Diplom.exe.config
+E:\Заказ\ValentinDiplom\Diplom\Diplom\bin\Debug\Diplom.exe
+E:\Заказ\ValentinDiplom\Diplom\Diplom\bin\Debug\Diplom.pdb
+E:\Заказ\ValentinDiplom\Diplom\Diplom\bin\Debug\Npgsql.dll
+E:\Заказ\ValentinDiplom\Diplom\Diplom\bin\Debug\Npgsql.xml
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.exe
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.pdb
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Forms.Patient.resources
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Forms.CardPatients.resources
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Forms.ChronicDiseases.resources
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Forms.Symptoms.resources
+E:\Заказ\ValentinDiplom\Diplom\Diplom\obj\Debug\Diplom.Forms.Laboratory.resources
